@@ -1,0 +1,7 @@
+Total number of distinct dealerships (locations ids): 29668
+Total number of canonical locations: 11494
+Total number of data issues (missing cells) found  : 39627
+Total number of data corrections:
+total no of duplicate rows removed: 332
+total no of NA values filled: 39627
+total no of unique values corrected by changing case in following columns: {'name': 969, 'address_line': 472, 'city': 627}
